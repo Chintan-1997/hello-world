@@ -1,0 +1,26 @@
+button:hover{	
+	color: blue;	
+}
+body{
+	background-image:linear-gradient(160deg, pink, cyan,pink);
+	
+}
+h1{
+	color:black;
+	text-align:center;
+	border: 4px solid blue;
+		
+}
+#btn{
+margin-left:43%;	
+height:60px;
+width:180px;
+font-size:22px;
+border-radius: 15px;
+background-color:moccasin;
+}
+
+
+
+
+
